@@ -8,7 +8,7 @@ for multiple APIs.
 Author: Marcus Burghardt - https://github.com/marcusburghardt
 """
 
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import configparser
 import os
 import sys
@@ -88,7 +88,7 @@ def get_delta_time(start_date, end_date, unit):
 
 
 def get_old_date(days):
-    now = datetime.now()
+    now = datetime.now(timezone.utc)
     return now - timedelta(days=days)
 
 
