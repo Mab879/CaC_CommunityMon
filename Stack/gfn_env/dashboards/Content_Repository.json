@@ -95,8 +95,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -246,8 +245,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -338,8 +336,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -433,8 +430,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -508,8 +504,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -618,8 +613,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -689,6 +683,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -700,12 +695,14 @@
             "seriesBy": "last"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -778,6 +775,7 @@
           "url": "https://github.com/ComplianceAsCode/content/labels/do-not-merge%2Fwork-in-progress"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "legend": {
           "calcs": [
@@ -853,6 +851,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -909,6 +908,7 @@
           "url": "https://github.com/ComplianceAsCode/content/labels/do-not-merge%2Fwork-in-progress"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -979,6 +979,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1030,6 +1031,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Aopen+is%3Apr+sort%3Aupdated-asc"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -1088,6 +1090,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1129,6 +1132,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -1188,6 +1192,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1198,12 +1203,14 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -1265,6 +1272,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Apr+is%3Aclosed"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "legend": {
           "calcs": [
@@ -1333,6 +1341,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1389,6 +1398,7 @@
           "url": "https://github.com/ComplianceAsCode/content/labels/do-not-merge%2Fwork-in-progress"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -1459,6 +1469,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1499,6 +1510,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -1624,8 +1636,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2097,8 +2108,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               },
@@ -2467,8 +2477,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2827,12 +2836,14 @@
             "seriesBy": "last"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -2943,6 +2954,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -3009,11 +3021,13 @@
         "y": 14
       },
       "id": 94,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "lastNotNull"
@@ -3021,12 +3035,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -3043,6 +3059,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -3109,11 +3126,13 @@
         "y": 14
       },
       "id": 92,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -3121,12 +3140,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -3146,6 +3167,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -3212,11 +3234,13 @@
         "y": 14
       },
       "id": 96,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -3224,12 +3248,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -3260,12 +3286,14 @@
             "seriesBy": "last"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -3386,12 +3414,14 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -3506,6 +3536,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -3572,11 +3603,13 @@
         "y": 18
       },
       "id": 97,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "lastNotNull"
@@ -3584,12 +3617,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -3606,6 +3641,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -3672,11 +3708,13 @@
         "y": 18
       },
       "id": 98,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -3684,12 +3722,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -3709,6 +3749,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -3775,11 +3816,13 @@
         "y": 18
       },
       "id": 99,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -3787,12 +3830,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -3822,12 +3867,14 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -3955,6 +4002,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -4006,6 +4054,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Apr+is%3Aclosed"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -4160,11 +4209,13 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "none",
@@ -4384,11 +4435,13 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "none",
@@ -4551,6 +4604,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -4602,6 +4656,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Apr+is%3Aclosed"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -4731,11 +4786,13 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "none",
@@ -4931,11 +4988,13 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "none",
@@ -5074,8 +5133,7 @@
     }
   ],
   "refresh": "",
-  "schemaVersion": 38,
-  "style": "dark",
+  "schemaVersion": 39,
   "tags": [],
   "templating": {
     "list": []
@@ -5088,6 +5146,6 @@
   "timezone": "",
   "title": "Content_Repository",
   "uid": "5CYqOs87k",
-  "version": 5,
+  "version": 1,
   "weekStart": ""
 }

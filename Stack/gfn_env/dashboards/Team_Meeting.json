@@ -42,6 +42,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -53,12 +54,14 @@
             "seriesBy": "last"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -114,6 +117,7 @@
         "y": 1
       },
       "id": 52,
+      "interval": "5m",
       "links": [
         {
           "targetBlank": true,
@@ -131,6 +135,7 @@
           "url": "https://github.com/ComplianceAsCode/content/labels/do-not-merge%2Fwork-in-progress"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "legend": {
           "calcs": [
@@ -206,6 +211,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -272,11 +278,13 @@
         "y": 1
       },
       "id": 54,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -284,12 +292,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -309,6 +319,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -375,11 +386,13 @@
         "y": 1
       },
       "id": 59,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -387,12 +400,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -412,6 +427,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -468,6 +484,7 @@
           "url": "https://github.com/ComplianceAsCode/content/labels/do-not-merge%2Fwork-in-progress"
         }
       ],
+      "maxDataPoints": 2000,
       "options": {
         "displayLabels": [
           "value"
@@ -538,6 +555,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -579,6 +597,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -638,6 +657,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -704,11 +724,13 @@
         "y": 4
       },
       "id": 57,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -716,12 +738,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -741,6 +765,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -807,11 +832,13 @@
         "y": 4
       },
       "id": 58,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -819,12 +846,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -844,6 +873,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -854,12 +884,14 @@
             "mode": "palette-classic"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -921,6 +953,7 @@
           "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Apr+is%3Aclosed"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "legend": {
           "calcs": [
@@ -989,6 +1022,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1056,11 +1090,13 @@
         "y": 6
       },
       "id": 68,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -1068,12 +1104,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -1093,6 +1131,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1149,6 +1188,7 @@
           "url": "https://github.com/ComplianceAsCode/content/labels/do-not-merge%2Fwork-in-progress"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -1232,6 +1272,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1242,12 +1283,14 @@
             "mode": "continuous-GrYlRd"
           },
           "custom": {
+            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisGridShow": false,
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
+            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 5,
             "gradientMode": "opacity",
@@ -1320,6 +1363,7 @@
           "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aissue+is%3Aopen+label%3Aproductization-issue+label%3Ablocked+"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "legend": {
           "calcs": [
@@ -1395,6 +1439,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1461,11 +1506,13 @@
         "y": 12
       },
       "id": 77,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -1473,12 +1520,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -1498,6 +1547,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1564,11 +1614,13 @@
         "y": 12
       },
       "id": 80,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -1576,12 +1628,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -1601,6 +1655,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1647,6 +1702,7 @@
           "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aissue+is%3Aopen+label%3Aproductization-issue+sort%3Acreated-asc"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -1717,6 +1773,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1761,11 +1818,13 @@
           "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aissue+is%3Aopen+label%3Aproductization-issue"
         }
       ],
+      "maxDataPoints": 1500,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "lastNotNull"
@@ -1773,10 +1832,12 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {},
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -1793,6 +1854,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1859,11 +1921,13 @@
         "y": 15
       },
       "id": 78,
+      "maxDataPoints": 1000,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -1871,12 +1935,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -1896,6 +1962,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -1962,11 +2029,13 @@
         "y": 15
       },
       "id": 79,
+      "maxDataPoints": 1500,
       "options": {
         "colorMode": "value",
         "graphMode": "none",
         "justifyMode": "auto",
         "orientation": "auto",
+        "percentChangeColorMode": "standard",
         "reduceOptions": {
           "calcs": [
             "diff"
@@ -1974,12 +2043,14 @@
           "fields": "",
           "values": false
         },
+        "showPercentChange": false,
         "text": {
           "valueSize": 20
         },
-        "textMode": "auto"
+        "textMode": "auto",
+        "wideLayout": true
       },
-      "pluginVersion": "10.1.2",
+      "pluginVersion": "11.2.2+security-01",
       "targets": [
         {
           "datasource": {
@@ -1999,6 +2070,7 @@
     },
     {
       "datasource": {
+        "default": true,
         "type": "prometheus",
         "uid": "PBFA97CFB590B2093"
       },
@@ -2050,6 +2122,7 @@
           "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aissue+is%3Aopen+label%3Aproductization-issue+no%3Aassignee"
         }
       ],
+      "maxDataPoints": 1000,
       "options": {
         "displayLabels": [
           "value"
@@ -2107,7 +2180,7 @@
       "type": "piechart"
     },
     {
-      "collapsed": true,
+      "collapsed": false,
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2115,592 +2188,614 @@
         "y": 22
       },
       "id": 50,
-      "panels": [
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This chart shows the main metrics about Open Issues.\n\nWhen comparing the numbers within an interval it is interesting to check the \"Difference\" value. Negative values are usually good and mean the queue is getting smaller in the specific interval. Positive values may indicate that Issues are taking too long to be reviewed and resolved.\n\nPeaks might also indicate more serious issues in a specific release or profile.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "continuous-GrYlRd",
-                "seriesBy": "last"
-              },
-              "custom": {
-                "axisCenteredZero": false,
-                "axisColorMode": "text",
-                "axisGridShow": false,
-                "axisLabel": "",
-                "axisPlacement": "auto",
-                "barAlignment": 0,
-                "drawStyle": "line",
-                "fillOpacity": 5,
-                "gradientMode": "opacity",
-                "hideFrom": {
-                  "legend": false,
-                  "tooltip": false,
-                  "viz": false
-                },
-                "insertNulls": false,
-                "lineInterpolation": "smooth",
-                "lineStyle": {
-                  "fill": "solid"
-                },
-                "lineWidth": 1,
-                "pointSize": 5,
-                "scaleDistribution": {
-                  "type": "linear"
-                },
-                "showPoints": "auto",
-                "spanNulls": true,
-                "stacking": {
-                  "group": "A",
-                  "mode": "none"
-                },
-                "thresholdsStyle": {
-                  "mode": "off"
-                }
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "PRs List",
-                  "url": "https://github.com/ComplianceAsCode/content/pulls"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green"
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 5,
-            "w": 10,
-            "x": 0,
-            "y": 23
-          },
-          "id": 74,
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "Open Issues",
-              "url": "https://github.com/ComplianceAsCode/content/issues"
-            },
-            {
-              "targetBlank": true,
-              "title": "Unassigned Issues",
-              "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee"
-            },
-            {
-              "targetBlank": true,
-              "title": "Assigned Issues",
-              "url": "https://github.com/ComplianceAsCode/content/issues/assigned/*"
-            }
-          ],
-          "options": {
-            "legend": {
-              "calcs": [
-                "lastNotNull",
-                "min",
-                "max",
-                "mean",
-                "diff"
-              ],
-              "displayMode": "table",
-              "placement": "right",
-              "showLegend": true
-            },
-            "tooltip": {
-              "mode": "single",
-              "sort": "none"
-            }
-          },
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum(ComplianceAsCode_content_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})",
-              "interval": "",
-              "legendFormat": "Open Issues",
-              "range": true,
-              "refId": "A"
-            },
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum(ComplianceAsCode_content_unassigned_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_unassigned_open_pulls{exported_job=~\".*\"})",
-              "hide": false,
-              "legendFormat": "Unassigned Issues",
-              "range": true,
-              "refId": "B"
-            },
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"})",
-              "hide": false,
-              "legendFormat": "Outdated Issues",
-              "range": true,
-              "refId": "C"
-            },
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "(sum(ComplianceAsCode_content_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})) - (sum(ComplianceAsCode_content_unassigned_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_unassigned_open_pulls{exported_job=~\".*\"}))",
-              "hide": false,
-              "legendFormat": "Assigned Issues",
-              "range": true,
-              "refId": "D"
-            }
-          ],
-          "title": "Open Issues Summary",
-          "transparent": true,
-          "type": "timeseries"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This trend is defined based on the result difference between the first and last values in the selected interval.\n\n- A negative result means the issues are Reducing.\n- A positive result up to 2 means the number of issues is Stable.\n- A positive result higher than 2 means the issues are Increasing.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "mappings": [
-                {
-                  "options": {
-                    "from": 0,
-                    "result": {
-                      "color": "green",
-                      "index": 0,
-                      "text": "Stable"
-                    },
-                    "to": 2
-                  },
-                  "type": "range"
-                },
-                {
-                  "options": {
-                    "from": 3,
-                    "result": {
-                      "color": "yellow",
-                      "index": 1,
-                      "text": "Increasing"
-                    },
-                    "to": 100
-                  },
-                  "type": "range"
-                },
-                {
-                  "options": {
-                    "from": -100,
-                    "result": {
-                      "color": "green",
-                      "index": 2,
-                      "text": "Reducing"
-                    },
-                    "to": -1
-                  },
-                  "type": "range"
-                }
-              ],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green"
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 10,
-            "y": 23
-          },
-          "id": 81,
-          "options": {
-            "colorMode": "value",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "diff"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {
-              "valueSize": 20
-            },
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum(ComplianceAsCode_content_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "Issues Trend",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This trend is defined based on the result difference between the first and last values in the selected interval.\n\n- A negative result means the number of outdated items is Getting Better.\n- A positive result up to 2 means the number of outdated items is Stable.\n- A positive result higher than 2 means the number of outdated items is Getting Worse.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "mappings": [
-                {
-                  "options": {
-                    "from": 0,
-                    "result": {
-                      "color": "green",
-                      "index": 0,
-                      "text": "Stable"
-                    },
-                    "to": 2
-                  },
-                  "type": "range"
-                },
-                {
-                  "options": {
-                    "from": 3,
-                    "result": {
-                      "color": "yellow",
-                      "index": 1,
-                      "text": "Getting Worse"
-                    },
-                    "to": 100
-                  },
-                  "type": "range"
-                },
-                {
-                  "options": {
-                    "from": -100,
-                    "result": {
-                      "color": "green",
-                      "index": 2,
-                      "text": "Getting Better"
-                    },
-                    "to": -1
-                  },
-                  "type": "range"
-                }
-              ],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green"
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 2,
-            "w": 3,
-            "x": 13,
-            "y": 23
-          },
-          "id": 83,
-          "options": {
-            "colorMode": "value",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "diff"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {
-              "valueSize": 20
-            },
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"})",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "Outdated Trend",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This pie chat shows the distribution of Active and Inactive Issues, which are Issues without updates within the last 15 days.\n\nIn general it is not good to have Inactive Issues in the project. Maintainers should check them. It is possible that a contributor or customer is waiting for a feedback or a decision from a maintainer.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "palette-classic"
-              },
-              "custom": {
-                "hideFrom": {
-                  "legend": false,
-                  "tooltip": false,
-                  "viz": false
-                }
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "Open PRs - Oldest First",
-                  "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Aopen+is%3Apr+sort%3Acreated-asc"
-                },
-                {
-                  "targetBlank": true,
-                  "title": "Open PRs - Newest First",
-                  "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Aopen+is%3Apr+sort%3Acreated-desc"
-                }
-              ],
-              "mappings": []
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 5,
-            "w": 6,
-            "x": 16,
-            "y": 23
-          },
-          "id": 70,
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "Open Issues - Most Recently Updated",
-              "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aopen+is%3Apr+sort%3Aupdated-desc"
-            },
-            {
-              "targetBlank": true,
-              "title": "Open Issues - Least Recently Updated",
-              "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aopen+is%3Apr+sort%3Aupdated-asc"
-            }
-          ],
-          "options": {
-            "displayLabels": [
-              "value"
-            ],
-            "legend": {
-              "displayMode": "table",
-              "placement": "right",
-              "showLegend": true,
-              "values": [
-                "value",
-                "percent"
-              ]
-            },
-            "pieType": "pie",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "tooltip": {
-              "mode": "single",
-              "sort": "none"
-            }
-          },
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "(sum(ComplianceAsCode_content_open_issues_count{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})) - (sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"}))",
-              "interval": "",
-              "legendFormat": "Active Issues",
-              "range": true,
-              "refId": "A"
-            },
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"})",
-              "hide": false,
-              "legendFormat": "Inactive Issues",
-              "range": true,
-              "refId": "B"
-            }
-          ],
-          "title": "Issues Activity",
-          "transparent": true,
-          "type": "piechart"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This trend is defined based on the result difference between the first and last values in the selected interval.\n\n- A negative result means the assignment rate is Getting Better.\n- A positive result up to 2 means the assignment rate is Stable.\n- A positive result higher than 2 means the assignment rate is Getting Worse.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "mappings": [
-                {
-                  "options": {
-                    "from": 0,
-                    "result": {
-                      "color": "green",
-                      "index": 0,
-                      "text": "Stable"
-                    },
-                    "to": 2
-                  },
-                  "type": "range"
-                },
-                {
-                  "options": {
-                    "from": 3,
-                    "result": {
-                      "color": "yellow",
-                      "index": 1,
-                      "text": "Getting Worse"
-                    },
-                    "to": 100
-                  },
-                  "type": "range"
-                },
-                {
-                  "options": {
-                    "from": -100,
-                    "result": {
-                      "color": "green",
-                      "index": 2,
-                      "text": "Getting Better"
-                    },
-                    "to": -1
-                  },
-                  "type": "range"
-                }
-              ],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green"
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 2,
-            "w": 3,
-            "x": 10,
-            "y": 26
-          },
-          "id": 82,
-          "options": {
-            "colorMode": "value",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "diff"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {
-              "valueSize": 20
-            },
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum(ComplianceAsCode_content_unassigned_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_unassigned_open_pulls{exported_job=~\".*\"})",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "Assignment Trend",
-          "transparent": true,
-          "type": "stat"
-        }
-      ],
+      "panels": [],
       "title": "All Issues Summary",
       "type": "row"
+    },
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "PBFA97CFB590B2093"
+      },
+      "description": "This chart shows the main metrics about Open Issues.\n\nWhen comparing the numbers within an interval it is interesting to check the \"Difference\" value. Negative values are usually good and mean the queue is getting smaller in the specific interval. Positive values may indicate that Issues are taking too long to be reviewed and resolved.\n\nPeaks might also indicate more serious issues in a specific release or profile.",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "continuous-GrYlRd",
+            "seriesBy": "last"
+          },
+          "custom": {
+            "axisBorderShow": false,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisGridShow": false,
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "barWidthFactor": 0.6,
+            "drawStyle": "line",
+            "fillOpacity": 5,
+            "gradientMode": "opacity",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "insertNulls": false,
+            "lineInterpolation": "smooth",
+            "lineStyle": {
+              "fill": "solid"
+            },
+            "lineWidth": 1,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": true,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "links": [
+            {
+              "targetBlank": true,
+              "title": "PRs List",
+              "url": "https://github.com/ComplianceAsCode/content/pulls"
+            }
+          ],
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 5,
+        "w": 10,
+        "x": 0,
+        "y": 23
+      },
+      "id": 74,
+      "links": [
+        {
+          "targetBlank": true,
+          "title": "Open Issues",
+          "url": "https://github.com/ComplianceAsCode/content/issues"
+        },
+        {
+          "targetBlank": true,
+          "title": "Unassigned Issues",
+          "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee"
+        },
+        {
+          "targetBlank": true,
+          "title": "Assigned Issues",
+          "url": "https://github.com/ComplianceAsCode/content/issues/assigned/*"
+        }
+      ],
+      "options": {
+        "legend": {
+          "calcs": [
+            "lastNotNull",
+            "min",
+            "max",
+            "mean",
+            "diff"
+          ],
+          "displayMode": "table",
+          "placement": "right",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "single",
+          "sort": "none"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "sum(ComplianceAsCode_content_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})",
+          "interval": "",
+          "legendFormat": "Open Issues",
+          "range": true,
+          "refId": "A"
+        },
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "sum(ComplianceAsCode_content_unassigned_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_unassigned_open_pulls{exported_job=~\".*\"})",
+          "hide": false,
+          "legendFormat": "Unassigned Issues",
+          "range": true,
+          "refId": "B"
+        },
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"})",
+          "hide": false,
+          "legendFormat": "Outdated Issues",
+          "range": true,
+          "refId": "C"
+        },
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "(sum(ComplianceAsCode_content_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})) - (sum(ComplianceAsCode_content_unassigned_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_unassigned_open_pulls{exported_job=~\".*\"}))",
+          "hide": false,
+          "legendFormat": "Assigned Issues",
+          "range": true,
+          "refId": "D"
+        }
+      ],
+      "title": "Open Issues Summary",
+      "transparent": true,
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "default": true,
+        "type": "prometheus",
+        "uid": "PBFA97CFB590B2093"
+      },
+      "description": "This trend is defined based on the result difference between the first and last values in the selected interval.\n\n- A negative result means the issues are Reducing.\n- A positive result up to 2 means the number of issues is Stable.\n- A positive result higher than 2 means the issues are Increasing.",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "mappings": [
+            {
+              "options": {
+                "from": 0,
+                "result": {
+                  "color": "green",
+                  "index": 0,
+                  "text": "Stable"
+                },
+                "to": 2
+              },
+              "type": "range"
+            },
+            {
+              "options": {
+                "from": 3,
+                "result": {
+                  "color": "yellow",
+                  "index": 1,
+                  "text": "Increasing"
+                },
+                "to": 100
+              },
+              "type": "range"
+            },
+            {
+              "options": {
+                "from": -100,
+                "result": {
+                  "color": "green",
+                  "index": 2,
+                  "text": "Reducing"
+                },
+                "to": -1
+              },
+              "type": "range"
+            }
+          ],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 10,
+        "y": 23
+      },
+      "id": 81,
+      "maxDataPoints": 1000,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "percentChangeColorMode": "standard",
+        "reduceOptions": {
+          "calcs": [
+            "diff"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "showPercentChange": false,
+        "text": {
+          "valueSize": 20
+        },
+        "textMode": "auto",
+        "wideLayout": true
+      },
+      "pluginVersion": "11.2.2+security-01",
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "sum(ComplianceAsCode_content_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})",
+          "legendFormat": "__auto",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "Issues Trend",
+      "transparent": true,
+      "type": "stat"
+    },
+    {
+      "datasource": {
+        "default": true,
+        "type": "prometheus",
+        "uid": "PBFA97CFB590B2093"
+      },
+      "description": "This trend is defined based on the result difference between the first and last values in the selected interval.\n\n- A negative result means the number of outdated items is Getting Better.\n- A positive result up to 2 means the number of outdated items is Stable.\n- A positive result higher than 2 means the number of outdated items is Getting Worse.",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "mappings": [
+            {
+              "options": {
+                "from": 0,
+                "result": {
+                  "color": "green",
+                  "index": 0,
+                  "text": "Stable"
+                },
+                "to": 2
+              },
+              "type": "range"
+            },
+            {
+              "options": {
+                "from": 3,
+                "result": {
+                  "color": "yellow",
+                  "index": 1,
+                  "text": "Getting Worse"
+                },
+                "to": 100
+              },
+              "type": "range"
+            },
+            {
+              "options": {
+                "from": -100,
+                "result": {
+                  "color": "green",
+                  "index": 2,
+                  "text": "Getting Better"
+                },
+                "to": -1
+              },
+              "type": "range"
+            }
+          ],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 2,
+        "w": 3,
+        "x": 13,
+        "y": 23
+      },
+      "id": 83,
+      "interval": "15s",
+      "maxDataPoints": 1000,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "percentChangeColorMode": "standard",
+        "reduceOptions": {
+          "calcs": [
+            "diff"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "showPercentChange": false,
+        "text": {
+          "valueSize": 20
+        },
+        "textMode": "auto",
+        "wideLayout": true
+      },
+      "pluginVersion": "11.2.2+security-01",
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"})",
+          "legendFormat": "__auto",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "Outdated Trend",
+      "transparent": true,
+      "type": "stat"
+    },
+    {
+      "datasource": {
+        "default": true,
+        "type": "prometheus",
+        "uid": "PBFA97CFB590B2093"
+      },
+      "description": "This pie chat shows the distribution of Active and Inactive Issues, which are Issues without updates within the last 15 days.\n\nIn general it is not good to have Inactive Issues in the project. Maintainers should check them. It is possible that a contributor or customer is waiting for a feedback or a decision from a maintainer.",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            }
+          },
+          "links": [
+            {
+              "targetBlank": true,
+              "title": "Open PRs - Oldest First",
+              "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Aopen+is%3Apr+sort%3Acreated-asc"
+            },
+            {
+              "targetBlank": true,
+              "title": "Open PRs - Newest First",
+              "url": "https://github.com/ComplianceAsCode/content/pulls?q=is%3Aopen+is%3Apr+sort%3Acreated-desc"
+            }
+          ],
+          "mappings": []
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 5,
+        "w": 6,
+        "x": 16,
+        "y": 23
+      },
+      "id": 70,
+      "links": [
+        {
+          "targetBlank": true,
+          "title": "Open Issues - Most Recently Updated",
+          "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aopen+is%3Apr+sort%3Aupdated-desc"
+        },
+        {
+          "targetBlank": true,
+          "title": "Open Issues - Least Recently Updated",
+          "url": "https://github.com/ComplianceAsCode/content/issues?q=is%3Aopen+is%3Apr+sort%3Aupdated-asc"
+        }
+      ],
+      "maxDataPoints": 1000,
+      "options": {
+        "displayLabels": [
+          "value"
+        ],
+        "legend": {
+          "displayMode": "table",
+          "placement": "right",
+          "showLegend": true,
+          "values": [
+            "value",
+            "percent"
+          ]
+        },
+        "pieType": "pie",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "tooltip": {
+          "mode": "single",
+          "sort": "none"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "(sum(ComplianceAsCode_content_open_issues_count{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_open_pulls{exported_job=~\".*\"})) - (sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"}))",
+          "interval": "",
+          "legendFormat": "Active Issues",
+          "range": true,
+          "refId": "A"
+        },
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "sum(ComplianceAsCode_content_old_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_old_open_pulls{exported_job=~\".*\"})",
+          "hide": false,
+          "legendFormat": "Inactive Issues",
+          "range": true,
+          "refId": "B"
+        }
+      ],
+      "title": "Issues Activity",
+      "transparent": true,
+      "type": "piechart"
+    },
+    {
+      "datasource": {
+        "default": true,
+        "type": "prometheus",
+        "uid": "PBFA97CFB590B2093"
+      },
+      "description": "This trend is defined based on the result difference between the first and last values in the selected interval.\n\n- A negative result means the assignment rate is Getting Better.\n- A positive result up to 2 means the assignment rate is Stable.\n- A positive result higher than 2 means the assignment rate is Getting Worse.",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "mappings": [
+            {
+              "options": {
+                "from": 0,
+                "result": {
+                  "color": "green",
+                  "index": 0,
+                  "text": "Stable"
+                },
+                "to": 2
+              },
+              "type": "range"
+            },
+            {
+              "options": {
+                "from": 3,
+                "result": {
+                  "color": "yellow",
+                  "index": 1,
+                  "text": "Getting Worse"
+                },
+                "to": 100
+              },
+              "type": "range"
+            },
+            {
+              "options": {
+                "from": -100,
+                "result": {
+                  "color": "green",
+                  "index": 2,
+                  "text": "Getting Better"
+                },
+                "to": -1
+              },
+              "type": "range"
+            }
+          ],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 2,
+        "w": 3,
+        "x": 10,
+        "y": 26
+      },
+      "id": 82,
+      "maxDataPoints": 1000,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "percentChangeColorMode": "standard",
+        "reduceOptions": {
+          "calcs": [
+            "diff"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "showPercentChange": false,
+        "text": {
+          "valueSize": 20
+        },
+        "textMode": "auto",
+        "wideLayout": true
+      },
+      "pluginVersion": "11.2.2+security-01",
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "PBFA97CFB590B2093"
+          },
+          "editorMode": "code",
+          "expr": "sum(ComplianceAsCode_content_unassigned_open_issues{exported_job=~\".*\"}) - sum(ComplianceAsCode_content_unassigned_open_pulls{exported_job=~\".*\"})",
+          "legendFormat": "__auto",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "Assignment Trend",
+      "transparent": true,
+      "type": "stat"
     }
   ],
   "refresh": "",
-  "schemaVersion": 38,
-  "style": "dark",
+  "schemaVersion": 39,
   "tags": [],
   "templating": {
     "list": []
