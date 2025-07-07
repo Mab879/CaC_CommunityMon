@@ -51,8 +51,6 @@ services:
 networks:
   mbcm_net_frontend:
     driver: bridge
-    driver_opts:
-      com.docker.network.enable_ipv6: "false"
     ipam:
       driver: default
       config:
