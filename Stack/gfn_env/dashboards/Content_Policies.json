@@ -188,8 +188,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -280,8 +279,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -380,8 +378,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -480,8 +477,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -564,8 +560,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -648,8 +643,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -732,8 +726,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -958,8 +951,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -1050,8 +1042,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -1150,8 +1141,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -1250,8 +1240,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -1334,8 +1323,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -1418,8 +1406,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -1502,8 +1489,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -1728,8 +1714,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -1820,8 +1805,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -1920,8 +1904,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -2020,8 +2003,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2104,8 +2086,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2188,8 +2169,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2272,8 +2252,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2498,8 +2477,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2590,8 +2568,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -2693,8 +2670,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -2793,8 +2769,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2877,8 +2852,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -2961,8 +2935,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -3045,8 +3018,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -3271,8 +3243,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -3363,8 +3334,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -3463,8 +3433,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -3563,8 +3532,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -3647,8 +3615,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -3731,8 +3698,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -3815,8 +3781,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -4041,8 +4006,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -4133,8 +4097,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -4233,8 +4196,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -4333,8 +4295,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -4417,8 +4378,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -4501,8 +4461,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -4585,8 +4544,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -4811,8 +4769,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -4903,8 +4860,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -5003,8 +4959,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -5103,8 +5058,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -5187,8 +5141,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -5271,8 +5224,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -5355,8 +5307,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -5427,6 +5378,1528 @@
         "w": 24,
         "x": 0,
         "y": 7
+      },
+      "id": 191,
+      "panels": [{
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "This pie chart shows the latest status of all requirements included in the control file.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "palette-classic"
+            },
+            "custom": {
+              "hideFrom": {
+                "legend": false,
+                "tooltip": false,
+                "viz": false
+              }
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": []
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 9,
+          "w": 7,
+          "x": 0,
+          "y": 8
+        },
+        "id": 7,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "displayLabels": [
+            "name"
+          ],
+          "legend": {
+            "displayMode": "table",
+            "placement": "right",
+            "showLegend": true,
+            "values": [
+              "percent",
+              "value"
+            ]
+          },
+          "pieType": "donut",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "tooltip": {
+            "mode": "single",
+            "sort": "none"
+          }
+        },
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l1_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "status",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "piechart"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "This chart shows the status history of all requirements included in the control file.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "palette-classic"
+            },
+            "custom": {
+              "axisCenteredZero": false,
+              "axisColorMode": "text",
+              "axisLabel": "",
+              "axisPlacement": "auto",
+              "barAlignment": 0,
+              "drawStyle": "line",
+              "fillOpacity": 0,
+              "gradientMode": "none",
+              "hideFrom": {
+                "legend": false,
+                "tooltip": false,
+                "viz": false
+              },
+              "insertNulls": false,
+              "lineInterpolation": "smooth",
+              "lineWidth": 1,
+              "pointSize": 5,
+              "scaleDistribution": {
+                "type": "linear"
+              },
+              "showPoints": "auto",
+              "spanNulls": true,
+              "stacking": {
+                "group": "A",
+                "mode": "none"
+              },
+              "thresholdsStyle": {
+                "mode": "off"
+              }
+            },
+            "decimals": 0,
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 9,
+          "w": 11,
+          "x": 7,
+          "y": 8
+        },
+        "id": 2,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "legend": {
+            "calcs": [
+              "lastNotNull",
+              "min",
+              "max",
+              "mean",
+              "diff"
+            ],
+            "displayMode": "table",
+            "placement": "right",
+            "showLegend": true,
+            "sortBy": "Last *",
+            "sortDesc": true
+          },
+          "tooltip": {
+            "mode": "single",
+            "sort": "none"
+          }
+        },
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l1_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "status history",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "timeseries"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "Assessed requirements are all requirements not in \"pending\" status. It means they were already assessed and properly classified.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "red"
+                },
+                {
+                  "color": "orange",
+                  "value": 50
+                },
+                {
+                  "color": "#EAB839",
+                  "value": 80
+                },
+                {
+                  "color": "green",
+                  "value": 95
+                }
+              ]
+            },
+            "unit": "percent"
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 18,
+          "y": 8
+        },
+        "id": 119,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "value",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "sum by (level) (policy_requirements_status_cis_rhel10{level=\"l1_server\", status=\"assessed\"}) / sum by (level) (policy_requirements_status_cis_rhel10{level=\"l1_server\", status=\"all\"}) * 100",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "assessed",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "full coverage includes all requirements in the following status:\n- automated\n- documentation\n- inherently_met\n- manual\n\nFor more detailed information, check the utils/controleval.py tool in ComplianceAsCode/content repository.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "red"
+                },
+                {
+                  "color": "orange",
+                  "value": 50
+                },
+                {
+                  "color": "#EAB839",
+                  "value": 80
+                },
+                {
+                  "color": "green",
+                  "value": 95
+                }
+              ]
+            },
+            "unit": "percent"
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 21,
+          "y": 8
+        },
+        "id": 10,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "value",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "sum by (level) (policy_requirements_status_cis_rhel10{level=\"l1_server\", status=\"full coverage\"}) / sum by (level) (policy_requirements_status_cis_rhel10{level=\"l1_server\", status=\"all\"}) * 100",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "full coverage",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 18,
+          "y": 11
+        },
+        "id": 9,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l1_server\",status=\"all\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "all requirements",
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All applicable requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 21,
+          "y": 11
+        },
+        "id": 14,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l1_server\",status=\"applicable\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "applicable requirements",
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All rules selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 18,
+          "y": 14
+        },
+        "id": 175,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_content_cis_rhel10{level=\"l1_server\", content_type=\"rules\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "rules",
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All variables selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 21,
+          "y": 14
+        },
+        "id": 176,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_content_cis_rhel10{level=\"l1_server\", content_type=\"vars\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "variables",
+        "transparent": true,
+        "type": "stat"
+      }],
+      "title": "cis_rhel10 - l1_server",
+      "type": "row"
+    },
+    {
+      "collapsed": true,
+      "gridPos": {
+        "h": 1,
+        "w": 24,
+        "x": 0,
+        "y": 8
+      },
+      "id": 192,
+      "panels": [{
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "This pie chart shows the latest status of all requirements included in the control file.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "palette-classic"
+            },
+            "custom": {
+              "hideFrom": {
+                "legend": false,
+                "tooltip": false,
+                "viz": false
+              }
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": []
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 9,
+          "w": 7,
+          "x": 0,
+          "y": 8
+        },
+        "id": 7,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "displayLabels": [
+            "name"
+          ],
+          "legend": {
+            "displayMode": "table",
+            "placement": "right",
+            "showLegend": true,
+            "values": [
+              "percent",
+              "value"
+            ]
+          },
+          "pieType": "donut",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "tooltip": {
+            "mode": "single",
+            "sort": "none"
+          }
+        },
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l2_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "status",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "piechart"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "This chart shows the status history of all requirements included in the control file.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "palette-classic"
+            },
+            "custom": {
+              "axisCenteredZero": false,
+              "axisColorMode": "text",
+              "axisLabel": "",
+              "axisPlacement": "auto",
+              "barAlignment": 0,
+              "drawStyle": "line",
+              "fillOpacity": 0,
+              "gradientMode": "none",
+              "hideFrom": {
+                "legend": false,
+                "tooltip": false,
+                "viz": false
+              },
+              "insertNulls": false,
+              "lineInterpolation": "smooth",
+              "lineWidth": 1,
+              "pointSize": 5,
+              "scaleDistribution": {
+                "type": "linear"
+              },
+              "showPoints": "auto",
+              "spanNulls": true,
+              "stacking": {
+                "group": "A",
+                "mode": "none"
+              },
+              "thresholdsStyle": {
+                "mode": "off"
+              }
+            },
+            "decimals": 0,
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 9,
+          "w": 11,
+          "x": 7,
+          "y": 8
+        },
+        "id": 2,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "legend": {
+            "calcs": [
+              "lastNotNull",
+              "min",
+              "max",
+              "mean",
+              "diff"
+            ],
+            "displayMode": "table",
+            "placement": "right",
+            "showLegend": true,
+            "sortBy": "Last *",
+            "sortDesc": true
+          },
+          "tooltip": {
+            "mode": "single",
+            "sort": "none"
+          }
+        },
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l2_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "status history",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "timeseries"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "Assessed requirements are all requirements not in \"pending\" status. It means they were already assessed and properly classified.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "red"
+                },
+                {
+                  "color": "orange",
+                  "value": 50
+                },
+                {
+                  "color": "#EAB839",
+                  "value": 80
+                },
+                {
+                  "color": "green",
+                  "value": 95
+                }
+              ]
+            },
+            "unit": "percent"
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 18,
+          "y": 8
+        },
+        "id": 119,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "value",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "sum by (level) (policy_requirements_status_cis_rhel10{level=\"l2_server\", status=\"assessed\"}) / sum by (level) (policy_requirements_status_cis_rhel10{level=\"l2_server\", status=\"all\"}) * 100",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "assessed",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "full coverage includes all requirements in the following status:\n- automated\n- documentation\n- inherently_met\n- manual\n\nFor more detailed information, check the utils/controleval.py tool in ComplianceAsCode/content repository.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "red"
+                },
+                {
+                  "color": "orange",
+                  "value": 50
+                },
+                {
+                  "color": "#EAB839",
+                  "value": 80
+                },
+                {
+                  "color": "green",
+                  "value": 95
+                }
+              ]
+            },
+            "unit": "percent"
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 21,
+          "y": 8
+        },
+        "id": 10,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "value",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "expr": "sum by (level) (policy_requirements_status_cis_rhel10{level=\"l2_server\", status=\"full coverage\"}) / sum by (level) (policy_requirements_status_cis_rhel10{level=\"l2_server\", status=\"all\"}) * 100",
+            "legendFormat": "__auto",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "full coverage",
+        "transformations": [
+          {
+            "id": "labelsToFields",
+            "options": {
+              "valueLabel": "status"
+            }
+          }
+        ],
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 18,
+          "y": 11
+        },
+        "id": 9,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l2_server\",status=\"all\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "all requirements",
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All applicable requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 21,
+          "y": 11
+        },
+        "id": 14,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_status_cis_rhel10{level=\"l2_server\",status=\"applicable\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "applicable requirements",
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All rules selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 18,
+          "y": 14
+        },
+        "id": 175,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_content_cis_rhel10{level=\"l2_server\", content_type=\"rules\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "rules",
+        "transparent": true,
+        "type": "stat"
+      },
+      {
+        "datasource": {
+          "type": "prometheus",
+          "uid": "PBFA97CFB590B2093"
+        },
+        "description": "All variables selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "thresholds"
+            },
+            "links": [
+              {
+                "targetBlank": true,
+                "title": "cis_rhel10 control file",
+                "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+              }
+            ],
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green"
+                }
+              ]
+            }
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 3,
+          "w": 3,
+          "x": 21,
+          "y": 14
+        },
+        "id": 176,
+        "interval": "10m",
+        "links": [
+          {
+            "targetBlank": true,
+            "title": "cis_rhel10 control file",
+            "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel10.yml"
+          }
+        ],
+        "maxDataPoints": 6000,
+        "options": {
+          "colorMode": "none",
+          "graphMode": "none",
+          "justifyMode": "auto",
+          "orientation": "auto",
+          "reduceOptions": {
+            "calcs": [
+              "lastNotNull"
+            ],
+            "fields": "",
+            "values": false
+          },
+          "text": {},
+          "textMode": "auto"
+        },
+        "pluginVersion": "10.1.2",
+        "targets": [
+          {
+            "datasource": {
+              "type": "prometheus",
+              "uid": "PBFA97CFB590B2093"
+            },
+            "editorMode": "code",
+            "exemplar": false,
+            "expr": "policy_requirements_content_cis_rhel10{level=\"l2_server\", content_type=\"vars\"}",
+            "format": "time_series",
+            "instant": false,
+            "interval": "",
+            "legendFormat": "Existing Labels",
+            "range": true,
+            "refId": "A"
+          }
+        ],
+        "title": "variables",
+        "transparent": true,
+        "type": "stat"
+      }],
+      "title": "cis_rhel10 - l2_server",
+      "type": "row"
+    },
+    {
+      "collapsed": true,
+      "gridPos": {
+        "h": 1,
+        "w": 24,
+        "x": 0,
+        "y": 9
       },
       "id": 13,
       "panels": [
@@ -5581,8 +7054,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -5673,8 +7145,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -5773,8 +7244,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -5873,8 +7343,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -5957,8 +7426,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6041,8 +7509,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6125,8 +7592,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6196,7 +7662,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 8
+        "y": 10
       },
       "id": 16,
       "panels": [
@@ -6351,8 +7817,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6443,8 +7908,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -6543,8 +8007,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -6643,8 +8106,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6727,8 +8189,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6811,8 +8272,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6895,8 +8355,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -6966,7 +8425,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 9
+        "y": 11
       },
       "id": 32,
       "panels": [
@@ -7121,8 +8580,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -7213,8 +8671,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -7313,8 +8770,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -7413,8 +8869,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -7497,8 +8952,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -7581,8 +9035,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -7665,8 +9118,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -7736,7 +9188,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 10
+        "y": 12
       },
       "id": 24,
       "panels": [
@@ -7891,8 +9343,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -7983,8 +9434,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -8083,8 +9533,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -8183,8 +9632,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -8267,8 +9715,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -8351,8 +9798,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -8435,8 +9881,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -8506,1547 +9951,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 11
-      },
-      "id": 48,
-      "panels": [
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This pie chart shows the latest status of all requirements included in the control file.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "palette-classic"
-              },
-              "custom": {
-                "hideFrom": {
-                  "legend": false,
-                  "tooltip": false,
-                  "viz": false
-                }
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": []
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 9,
-            "w": 7,
-            "x": 0,
-            "y": 21
-          },
-          "id": 49,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "displayLabels": [
-              "name"
-            ],
-            "legend": {
-              "displayMode": "table",
-              "placement": "right",
-              "showLegend": true,
-              "values": [
-                "percent",
-                "value"
-              ]
-            },
-            "pieType": "donut",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "tooltip": {
-              "mode": "single",
-              "sort": "none"
-            }
-          },
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l1_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "status",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "piechart"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This chart shows the status history of all requirements included in the control file.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "palette-classic"
-              },
-              "custom": {
-                "axisCenteredZero": false,
-                "axisColorMode": "text",
-                "axisLabel": "",
-                "axisPlacement": "auto",
-                "barAlignment": 0,
-                "drawStyle": "line",
-                "fillOpacity": 0,
-                "gradientMode": "none",
-                "hideFrom": {
-                  "legend": false,
-                  "tooltip": false,
-                  "viz": false
-                },
-                "insertNulls": false,
-                "lineInterpolation": "smooth",
-                "lineWidth": 1,
-                "pointSize": 5,
-                "scaleDistribution": {
-                  "type": "linear"
-                },
-                "showPoints": "auto",
-                "spanNulls": true,
-                "stacking": {
-                  "group": "A",
-                  "mode": "none"
-                },
-                "thresholdsStyle": {
-                  "mode": "off"
-                }
-              },
-              "decimals": 0,
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 9,
-            "w": 11,
-            "x": 7,
-            "y": 21
-          },
-          "id": 42,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "legend": {
-              "calcs": [
-                "lastNotNull",
-                "min",
-                "max",
-                "mean",
-                "diff"
-              ],
-              "displayMode": "table",
-              "placement": "right",
-              "showLegend": true,
-              "sortBy": "Last *",
-              "sortDesc": true
-            },
-            "tooltip": {
-              "mode": "single",
-              "sort": "none"
-            }
-          },
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l1_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "status history",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "timeseries"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "Assessed requirements are all requirements not in \"pending\" status. It means they were already assessed and properly classified.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "red",
-                    "value": null
-                  },
-                  {
-                    "color": "orange",
-                    "value": 50
-                  },
-                  {
-                    "color": "#EAB839",
-                    "value": 80
-                  },
-                  {
-                    "color": "green",
-                    "value": 95
-                  }
-                ]
-              },
-              "unit": "percent"
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 18,
-            "y": 21
-          },
-          "id": 45,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "value",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum by (level) (policy_requirements_status_cis_rhel7{level=\"l1_server\", status=\"assessed\"}) / sum by (level) (policy_requirements_status_cis_rhel7{level=\"l1_server\", status=\"all\"}) * 100",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "assessed",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "full coverage includes all requirements in the following status:\n- automated\n- documentation\n- inherently_met\n- manual\n\nFor more detailed information, check the utils/controleval.py tool in ComplianceAsCode/content repository.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "red",
-                    "value": null
-                  },
-                  {
-                    "color": "orange",
-                    "value": 50
-                  },
-                  {
-                    "color": "#EAB839",
-                    "value": 80
-                  },
-                  {
-                    "color": "green",
-                    "value": 95
-                  }
-                ]
-              },
-              "unit": "percent"
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 21,
-            "y": 21
-          },
-          "id": 46,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "value",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum by (level) (policy_requirements_status_cis_rhel7{level=\"l1_server\", status=\"full coverage\"}) / sum by (level) (policy_requirements_status_cis_rhel7{level=\"l1_server\", status=\"all\"}) * 100",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "full coverage",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 18,
-            "y": 24
-          },
-          "id": 51,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l1_server\",status=\"all\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "all requirements",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All applicable requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 21,
-            "y": 24
-          },
-          "id": 52,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l1_server\",status=\"applicable\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "applicable requirements",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All rules selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 18,
-            "y": 27
-          },
-          "id": 167,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_content_cis_rhel7{level=\"l1_server\", content_type=\"rules\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "rules",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All variables selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 21,
-            "y": 27
-          },
-          "id": 168,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_content_cis_rhel7{level=\"l1_server\", content_type=\"vars\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "variables",
-          "transparent": true,
-          "type": "stat"
-        }
-      ],
-      "title": "cis_rhel7 - l1_server",
-      "type": "row"
-    },
-    {
-      "collapsed": true,
-      "gridPos": {
-        "h": 1,
-        "w": 24,
-        "x": 0,
-        "y": 12
-      },
-      "id": 40,
-      "panels": [
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This pie chart shows the latest status of all requirements included in the control file.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "palette-classic"
-              },
-              "custom": {
-                "hideFrom": {
-                  "legend": false,
-                  "tooltip": false,
-                  "viz": false
-                }
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": []
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 9,
-            "w": 7,
-            "x": 0,
-            "y": 13
-          },
-          "id": 41,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "displayLabels": [
-              "name"
-            ],
-            "legend": {
-              "displayMode": "table",
-              "placement": "right",
-              "showLegend": true,
-              "values": [
-                "percent",
-                "value"
-              ]
-            },
-            "pieType": "donut",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "tooltip": {
-              "mode": "single",
-              "sort": "none"
-            }
-          },
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l2_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "status",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "piechart"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "This chart shows the status history of all requirements included in the control file.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "palette-classic"
-              },
-              "custom": {
-                "axisCenteredZero": false,
-                "axisColorMode": "text",
-                "axisLabel": "",
-                "axisPlacement": "auto",
-                "barAlignment": 0,
-                "drawStyle": "line",
-                "fillOpacity": 0,
-                "gradientMode": "none",
-                "hideFrom": {
-                  "legend": false,
-                  "tooltip": false,
-                  "viz": false
-                },
-                "insertNulls": false,
-                "lineInterpolation": "smooth",
-                "lineWidth": 1,
-                "pointSize": 5,
-                "scaleDistribution": {
-                  "type": "linear"
-                },
-                "showPoints": "auto",
-                "spanNulls": true,
-                "stacking": {
-                  "group": "A",
-                  "mode": "none"
-                },
-                "thresholdsStyle": {
-                  "mode": "off"
-                }
-              },
-              "decimals": 0,
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 9,
-            "w": 11,
-            "x": 7,
-            "y": 13
-          },
-          "id": 50,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "legend": {
-              "calcs": [
-                "lastNotNull",
-                "min",
-                "max",
-                "mean",
-                "diff"
-              ],
-              "displayMode": "table",
-              "placement": "right",
-              "showLegend": true,
-              "sortBy": "Last *",
-              "sortDesc": true
-            },
-            "tooltip": {
-              "mode": "single",
-              "sort": "none"
-            }
-          },
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l2_server\",status!=\"assessed\",status!=\"not assessed\",status!=\"applicable\",status!=\"full coverage\",status!=\"all\"}",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "status history",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "timeseries"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "Assessed requirements are all requirements not in \"pending\" status. It means they were already assessed and properly classified.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "red",
-                    "value": null
-                  },
-                  {
-                    "color": "orange",
-                    "value": 50
-                  },
-                  {
-                    "color": "#EAB839",
-                    "value": 80
-                  },
-                  {
-                    "color": "green",
-                    "value": 95
-                  }
-                ]
-              },
-              "unit": "percent"
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 18,
-            "y": 13
-          },
-          "id": 53,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "value",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum by (level) (policy_requirements_status_cis_rhel7{level=\"l2_server\", status=\"assessed\"}) / sum by (level) (policy_requirements_status_cis_rhel7{level=\"l2_server\", status=\"all\"}) * 100",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "assessed",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "full coverage includes all requirements in the following status:\n- automated\n- documentation\n- inherently_met\n- manual\n\nFor more detailed information, check the utils/controleval.py tool in ComplianceAsCode/content repository.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "red",
-                    "value": null
-                  },
-                  {
-                    "color": "orange",
-                    "value": 50
-                  },
-                  {
-                    "color": "#EAB839",
-                    "value": 80
-                  },
-                  {
-                    "color": "green",
-                    "value": 95
-                  }
-                ]
-              },
-              "unit": "percent"
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 21,
-            "y": 13
-          },
-          "id": 54,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "value",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "expr": "sum by (level) (policy_requirements_status_cis_rhel7{level=\"l2_server\", status=\"full coverage\"}) / sum by (level) (policy_requirements_status_cis_rhel7{level=\"l2_server\", status=\"all\"}) * 100",
-              "legendFormat": "__auto",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "full coverage",
-          "transformations": [
-            {
-              "id": "labelsToFields",
-              "options": {
-                "valueLabel": "status"
-              }
-            }
-          ],
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 18,
-            "y": 16
-          },
-          "id": 43,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l2_server\",status=\"all\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "all requirements",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All applicable requirements included in the policy. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 21,
-            "y": 16
-          },
-          "id": 44,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_status_cis_rhel7{level=\"l2_server\",status=\"applicable\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "applicable requirements",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All rules selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 18,
-            "y": 19
-          },
-          "id": 165,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_content_cis_rhel7{level=\"l2_server\", content_type=\"rules\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "rules",
-          "transparent": true,
-          "type": "stat"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "PBFA97CFB590B2093"
-          },
-          "description": "All variables selected for the policy requirements. If the policy contains different levels, the number will represent the number of requirements in selected level.\n\nSome policies may include requirements for different components but make them optional or applicable only in some specific circumstances.",
-          "fieldConfig": {
-            "defaults": {
-              "color": {
-                "mode": "thresholds"
-              },
-              "links": [
-                {
-                  "targetBlank": true,
-                  "title": "cis_rhel7 control file",
-                  "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-                }
-              ],
-              "mappings": [],
-              "thresholds": {
-                "mode": "absolute",
-                "steps": [
-                  {
-                    "color": "green",
-                    "value": null
-                  }
-                ]
-              }
-            },
-            "overrides": []
-          },
-          "gridPos": {
-            "h": 3,
-            "w": 3,
-            "x": 21,
-            "y": 19
-          },
-          "id": 166,
-          "interval": "10m",
-          "links": [
-            {
-              "targetBlank": true,
-              "title": "cis_rhel7 control file",
-              "url": "https://github.com/ComplianceAsCode/content/blob/master/controls/cis_rhel7.yml"
-            }
-          ],
-          "maxDataPoints": 6000,
-          "options": {
-            "colorMode": "none",
-            "graphMode": "none",
-            "justifyMode": "auto",
-            "orientation": "auto",
-            "reduceOptions": {
-              "calcs": [
-                "lastNotNull"
-              ],
-              "fields": "",
-              "values": false
-            },
-            "text": {},
-            "textMode": "auto"
-          },
-          "pluginVersion": "10.1.2",
-          "targets": [
-            {
-              "datasource": {
-                "type": "prometheus",
-                "uid": "PBFA97CFB590B2093"
-              },
-              "editorMode": "code",
-              "exemplar": false,
-              "expr": "policy_requirements_content_cis_rhel7{level=\"l2_server\", content_type=\"vars\"}",
-              "format": "time_series",
-              "instant": false,
-              "interval": "",
-              "legendFormat": "Existing Labels",
-              "range": true,
-              "refId": "A"
-            }
-          ],
-          "title": "variables",
-          "transparent": true,
-          "type": "stat"
-        }
-      ],
-      "title": "cis_rhel7 - l2_server",
-      "type": "row"
-    },
-    {
-      "collapsed": true,
-      "gridPos": {
-        "h": 1,
-        "w": 24,
-        "x": 0,
-        "y": 13
+        "y": 15
       },
       "id": 127,
       "panels": [
@@ -10201,8 +10106,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -10293,8 +10197,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -10393,8 +10296,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -10493,8 +10395,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -10577,8 +10478,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -10661,8 +10561,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -10745,8 +10644,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -10816,7 +10714,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 14
+        "y": 16
       },
       "id": 120,
       "panels": [
@@ -10971,8 +10869,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -11063,8 +10960,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -11163,8 +11059,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -11263,8 +11158,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -11347,8 +11241,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -11431,8 +11324,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -11515,8 +11407,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -11586,7 +11477,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 15
+        "y": 17
       },
       "id": 134,
       "panels": [
@@ -11741,8 +11632,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -11833,8 +11723,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -11933,8 +11822,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -12033,8 +11921,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -12117,8 +12004,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -12201,8 +12087,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -12285,8 +12170,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -12356,7 +12240,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 16
+        "y": 18
       },
       "id": 141,
       "panels": [
@@ -12511,8 +12395,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -12603,8 +12486,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -12703,8 +12585,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -12803,8 +12684,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -12887,8 +12767,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -12971,8 +12850,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -13055,8 +12933,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -13126,7 +13003,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 17
+        "y": 19
       },
       "id": 148,
       "panels": [
@@ -13281,8 +13158,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -13373,8 +13249,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -13473,8 +13348,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "red",
-                    "value": null
+                    "color": "red"
                   },
                   {
                     "color": "orange",
@@ -13573,8 +13447,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -13657,8 +13530,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -13741,8 +13613,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -13825,8 +13696,7 @@
                 "mode": "absolute",
                 "steps": [
                   {
-                    "color": "green",
-                    "value": null
+                    "color": "green"
                   }
                 ]
               }
@@ -13892,8 +13762,7 @@
     }
   ],
   "refresh": false,
-  "schemaVersion": 38,
-  "style": "dark",
+  "schemaVersion": 39,
   "tags": [],
   "templating": {
     "list": []
